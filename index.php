@@ -4,12 +4,12 @@
 </head>
 
 <body background="background.JPG">
-<font color=white size=6>
+<font color=black size=6>
 <h1><center>PERFORMANCE TASKS</h1>
 </font>
 <hr>
 <p align=”left”>
-<font color=white size=8>
+<font color=black size=8>
 <tr>
 <br/>
 <td>CAE</td>
@@ -29,7 +29,7 @@
 <br>
 <br>
 <hr>
-<font color=white size=3>
+<font color=black size=3>
 <ul>
 <h1>Group 4</h1>
 </table>
