@@ -3,7 +3,7 @@
 <title>HOMEPAGE</title>
 </head>
 
-<body background="backgroundu.JPG">
+<body background="background.JPG">
 <font color=white size=6>
 <h1><center>PERFORMANCE TASKS</h1>
 </font>
