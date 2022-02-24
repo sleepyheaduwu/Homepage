@@ -33,6 +33,15 @@
 <font color=white size=3>
 <ul>
 <h1>Group 4</h1>
+Alzen Carreon
+<br>
+Rhian Hervas
+<br>
+Brandy Diaz
+<br>
+Jacob Jule
+<br>
+Zhia lim
 </table>
 </left>
 </body>
