@@ -10,7 +10,7 @@
 </font>
 <hr>
 <p align=”left”>
-<font color=white size=8>
+<font color="white" size=8>
 <tr>
 <br/>
 <td>CAE</td>
@@ -27,6 +27,7 @@
 <tr>
 <td>MATH</td>
 <th><a href="MATH.htm">Math Pt</a></th>
+<img src="image001.jpg">
 </tr>
 <br>
 <br>
