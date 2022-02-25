@@ -20,6 +20,7 @@
 <br/>
 <tr>
 <td>CLE</td>
+<th><a href="Advo-Proj.htm">Cle PT Pt</a></th>
 </tr>
 <br>
 <br>
@@ -28,7 +29,7 @@
 <td>MATH</td>
 <br>
 </br>
-<th><a href="MATH.htm">Math Pt</a></th>
+<th><a href="MATH.htm">Math P T</a></th>
 </tr>
 <br>
 <br>
