@@ -34,7 +34,7 @@
 <td>MATH</td>
 <br>
 </br>
-<th><a href="MATH.htm">Math P T</a></th>
+<th><a href="MATH.htm">Math P T</a></th> <th><a href="image001.jpeg">Image for Math P T</a></th> 
 </tr>
 <br>
 <br>
