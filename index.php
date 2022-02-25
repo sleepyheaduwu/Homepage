@@ -26,8 +26,9 @@
 <br/>
 <tr>
 <td>MATH</td>
+<br>
+</br>
 <th><a href="MATH.htm">Math Pt</a></th>
-<img src="image001.jpg">
 </tr>
 <br>
 <br>
