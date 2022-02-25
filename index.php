@@ -4,7 +4,7 @@
 </head>
 
 <body background="backgroundu.jpg">
-<img src="C:\Users\admin\Desktop/love-peach-cat.gif">
+<img src="love-peach-cat.gif"> <img src>
 <font color=white size=6>
 <h1><center>PERFORMANCE TASKS</h1>
 </font>
