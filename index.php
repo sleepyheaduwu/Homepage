@@ -20,7 +20,7 @@
 <br/>
 <tr>
 <td>CLE</td>
-<th><a href="Advo-Proj.htm">Cle PT Pt</a></th>
+<th><a href="Advo-Proj.html">Cle PT Pt</a></th>
 </tr>
 <br>
 <br>
