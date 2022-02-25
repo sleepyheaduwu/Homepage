@@ -16,7 +16,7 @@
 <td>CAE</td>
  <br>
  </br
-<th><a href="CRITIQUEPAPERTEMPLATE.htm">Cae PT</a></th>
+<th><a href="CRITIQUEPAPERTEMPLATE.htm">Cae PT link</a></th>
 </tr>
 <br>
 <br>
@@ -25,7 +25,7 @@
 <td>CLE</td>
 <br>
 </br>
-<th><a href="Advo-Proj.htm">Cle PT</a></th>
+<th><a href="Advo-Proj.htm">Cle PT link</a></th>
 </tr>
 <br>
 <br>
@@ -34,8 +34,7 @@
 <td>MATH</td>
 <br>
 </br>
-<font color="red">
-<th><a href="MATH.htm">Math P T</a></th> 
+<th><a href="MATH.htm">Math  PT link</a></th> 
 </tr>
 <br>
 <br>
