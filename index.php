@@ -34,7 +34,7 @@
 <td>MATH</td>
 <br>
 </br>
-<th><a href="MATH.htm">Math  PT link</a></th> <th><a href="https://youtu.be/v3xvhjzkACA">Math  PT link</a></th> 
+<th><a href="MATH.htm">Math  PT link</a></th> <th><a href="https://youtu.be/v3xvhjzkACA">Message of hope MATH link</a></th> 
 </tr>
 <br>
 <br>
