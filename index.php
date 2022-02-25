@@ -26,6 +26,7 @@
 <br/>
 <tr>
 <td>MATH</td>
+<th><a href="MATH.htm">Math Pt</a></th>
 </tr>
 <br>
 <br>
